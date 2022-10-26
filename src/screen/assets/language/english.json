@@ -1,0 +1,24 @@
+{
+    "translation":{
+        "welcomeText":"Hello",
+        "home":"Menu",
+        "notification":"notification",
+        "user":"User",
+        "queText":"Your Onging Queqe No is",
+        "newSimBtn":"New SIM Request",
+        "regiterBtn":"SIM Registration",
+        "notWorkigBtn":"SIM Not Working",
+        "otherBtn":"Other",
+        "selectLng":"Select language",
+        "logOut":"Log Out",
+        "logIn":"Log In",
+        "signUp":"Sign Up",
+        "email":"Email",
+        "password":"password",
+        "re_password" :"Re-Type Password",
+        "issueType":"Issue Type",
+        "note":"Remarak",
+        "submit":"Submit"
+
+    }
+}

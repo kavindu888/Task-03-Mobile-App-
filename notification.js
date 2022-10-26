@@ -1,0 +1,1 @@
+db.models.User = require('./user')(sequelize, Sequelize.DataTypes);

@@ -1,0 +1,26 @@
+{
+    "translation":{
+        "welcomeText":"ආයුබෝවන්",
+        "home":"නිවස",
+        "notification":"දැනුම්දීම්",
+        "user":"පරිශීලක",
+        "queText":"ඔබගේ ප්‍රවනතා අංකය",
+        "newSimBtn":"අලුත් සිම්පත්",
+        "regiterBtn":"සිම් පත් ලියාපදිංචි",
+        "notWorkigBtn":"සිම් පත වැඩ නොකරයි",
+        "otherBtn":"වෙනත්",
+        "selectLng":"භාශාව තෝරන්න",
+        "logOut":"පිටවන්න",
+        "logIn":"ලොග් වන්න",
+        "signUp":"ලියාපදිංචි වන්න",
+        "email":"ඊ මේල් ලිපිනය",
+        "password":"මුරපදය",
+        "re_password" :"මුරපදය නැවත එක් කරන්න",
+        "issueType":"ගැටලුවේ ස්වභාවය",
+        "note":"සටහන",
+        "submit":"යවන්න"
+
+    }
+
+
+}
